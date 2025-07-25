@@ -34,7 +34,7 @@
 
 ## 🏢 Professional Experience
 
-- **Cloud Support Engineer** at **Kyndryl** *(Present)*  
+- **Cloud Support Engineer** at **Kyndryl** *(May 2024 - Present)*  
   Supporting clients with cloud adoption, troubleshooting, and infrastructure optimization.
 
 
