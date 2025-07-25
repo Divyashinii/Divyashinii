@@ -4,8 +4,6 @@
 
 🚀 **Driven by curiosity and the thrill of building scalable, reliable, and secure infrastructure. Passionate about automating software delivery, exploring new cloud tools, and embracing a hands-on approach to skill development.**
 
----
-
 ## 🚀 Skills & Technologies
 
 - **Cloud Platforms:**  
@@ -25,8 +23,6 @@
 - **Infrastructure as Code:**  
   📜 ARM Templates, Terraform
 
----
-
 ## 🌱 What I’m Currently Doing
 
 - 🛠️ **Hands-on Cloud Projects:**  
@@ -36,20 +32,16 @@
 - 📝 **Documenting my Journey:**  
   Sharing technical notes and project walkthroughs on GitHub
 
----
-
 ## 🏢 Professional Experience
 
 - **Cloud Support Engineer** at **Kyndryl** *(Present)*  
   Supporting clients with cloud adoption, troubleshooting, and infrastructure optimization.
 
----
 
 ## 🌐 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emayan-vadivel/)  
 - 💻 [GitHub](https://github.com/your-github-profile)  
 
----
 
 ⚡ _"Turning complex challenges into elegant, automated solutions—on the journey to becoming a future-ready Cloud & DevOps expert!"_
