@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Divya!  
 
-<!--
-**Divyashinii/Divyashinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Cloud Engineer | Azure (AZ-900) Certified**  
+🎯 Passionate about streamlining software delivery, automating infrastructure, and driving innovation in DevOps practices.  
 
-Here are some ideas to get you started:
+## 🚀 Skills & Expertise  
+- **Cloud Platforms:** ☁️ Azure (AZ-900 Certified) 
+- **DevOps Tools:** 🛠️ Docker, Terraform, Jenkins, Kubernetes, Helm, ArgoCD, SonarQube, Maven  
+- **Programming & Scripting:** 💻 Bash, Python, Java, JavaScript, Go  
+- **CI/CD:** 🔄 Building robust pipelines for seamless deployments  
+- **Monitoring & Optimization:** 📊 Ensuring system reliability and performance  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Professional Journey
+- **Cloud Support Engineer** at **Kyndryl** *(Present)*    
+
+## 🌐 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/emayan-vadivel/)  
+- 💻 [GitHub](https://github.com/your-github-profile)  
+
+⚡ "Turning complex problems into elegant solutions, one pipeline at a time!"  
